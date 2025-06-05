@@ -1,4 +1,4 @@
-# Salary_prediction-
+# Salary_prediction
 
 - This app predicts the salary based on years of experience using a simple linear regression model.
 
